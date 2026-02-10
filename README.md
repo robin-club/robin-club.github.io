@@ -5,7 +5,7 @@ building, testing, and shipping real products through structured startup and
 builder programs.
 
 We exist to create disciplined environments where students execute consistently
-—not just attend events.
+not just attend events.
 
 ---
 
