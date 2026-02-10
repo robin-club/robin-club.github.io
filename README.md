@@ -74,8 +74,7 @@ If you are looking for certificates or quick recognition, ROBIN is not the right
 ## Apply
 
 Official website:  
-https://robin.carrd.co  
-*(replace with your final Carrd URL)*
+https://weareteamrobin.carrd.co/  
 
 ---
 
